@@ -1,0 +1,1 @@
+web: gunicorn ouedkniss_test.wsgi
